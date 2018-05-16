@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -fR root:root /usr/share/katalon-report-uploader
